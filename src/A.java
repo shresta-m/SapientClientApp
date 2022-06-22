@@ -17,7 +17,8 @@ public class A {
     public static void main(String[] args){
     	boolean test=true;
         System.out.println("Hello world");
-        boolean ip =false;
+        System.out.println("Hello world!!!!!");
+        boolean ip =true;
         System.out.println(trueOrFalse(ip));
     }
 }
